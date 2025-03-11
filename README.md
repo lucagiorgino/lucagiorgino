@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🏠 Personal website: [lucagiorgino.github.io](https://lucagiorgino.github.io/)
+- ⌨️ Preferred language: Rust 🦀
 - 💼 Working at Aruba.it
 - 🌱 Passionate about Cryptography, Cybersecurity and Blockchain
 - 🌍 Turin, Italy
