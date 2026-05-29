@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌍 Turin, Italy
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucagiorgino&show_icons=true&theme=radical&include_all_commits=true" alt="Luca Giorgino's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucagiorgino&layout=compact&theme=radical&hide=TeX,CSS,HTML" alt="Top Languages" />
-</p>
+</p> -->
